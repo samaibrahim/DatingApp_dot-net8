@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Zba+5XneO4+4MA1fPLax2Z/IlFDQWqiev/oQrLrZovY=",
+  "Source": "DatingApp.Api",
+  "BasePath": "_content/DatingApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
