@@ -1,14 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\DatingApp\\Backend\\DatingApp\\",
+  "WorkspaceRootPath": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|c:\\users\\compu marts\\desktop\\c# labs\\datingapp\\backend\\datingapp\\datingapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|c:\\users\\compu marts\\desktop\\csharp_labs\\datingapp\\backend\\datingapp\\datingapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|solutionrelative:datingapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|c:\\users\\compu marts\\desktop\\c# labs\\datingapp\\backend\\datingapp\\datingapp.api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|solutionrelative:datingapp.api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|c:\\users\\compu marts\\desktop\\csharp_labs\\datingapp\\backend\\datingapp\\datingapp.api\\extentions\\identityserviceextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|solutionrelative:datingapp.api\\extentions\\identityserviceextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|c:\\users\\compu marts\\desktop\\csharp_labs\\datingapp\\backend\\datingapp\\datingapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|solutionrelative:datingapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|c:\\users\\compu marts\\desktop\\csharp_labs\\datingapp\\backend\\datingapp\\datingapp.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|solutionrelative:datingapp.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|c:\\users\\compu marts\\desktop\\csharp_labs\\datingapp\\backend\\datingapp\\datingapp.api\\extentions\\applicationserviceextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|solutionrelative:datingapp.api\\extentions\\applicationserviceextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|c:\\users\\compu marts\\desktop\\csharp_labs\\datingapp\\backend\\datingapp\\datingapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|solutionrelative:datingapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|c:\\users\\compu marts\\desktop\\csharp_labs\\datingapp\\backend\\datingapp\\datingapp.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|solutionrelative:datingapp.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|c:\\users\\compu marts\\desktop\\csharp_labs\\datingapp\\backend\\datingapp\\datingapp.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8B32DF-3609-4D22-9BBE-BA5BD2A765E6}|DatingApp.Api\\DatingApp.Api.csproj|solutionrelative:datingapp.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +48,104 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "DatingApp.Api\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Controllers\\UsersController.cs",
               "RelativeToolTip": "DatingApp.Api\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T12:33:18.823Z",
+              "WhenOpened": "2025-04-20T15:45:22.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "DatingApp.Api\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Data\\DataContext.cs",
-              "RelativeToolTip": "DatingApp.Api\\Data\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Title": "IdentityServiceExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Extentions\\IdentityServiceExtentions.cs",
+              "RelativeDocumentMoniker": "DatingApp.Api\\Extentions\\IdentityServiceExtentions.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Extentions\\IdentityServiceExtentions.cs",
+              "RelativeToolTip": "DatingApp.Api\\Extentions\\IdentityServiceExtentions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T10:56:01.866Z",
+              "WhenOpened": "2025-04-20T14:02:36.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationServiceExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Extentions\\ApplicationServiceExtentions.cs",
+              "RelativeDocumentMoniker": "DatingApp.Api\\Extentions\\ApplicationServiceExtentions.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Extentions\\ApplicationServiceExtentions.cs",
+              "RelativeToolTip": "DatingApp.Api\\Extentions\\ApplicationServiceExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:51:51.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "DatingApp.Api\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Services\\TokenService.cs",
+              "RelativeToolTip": "DatingApp.Api\\Services\\TokenService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:49:06.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "DatingApp.Api\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "DatingApp.Api\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:26:13.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "DatingApp.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\appsettings.json",
+              "RelativeToolTip": "DatingApp.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T12:17:10.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "DatingApp.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Program.cs",
+              "RelativeToolTip": "DatingApp.Api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:33:13.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DatingApp.Api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DatingApp.Api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:49:30.842Z",
               "EditorCaption": ""
             }
           ]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\DatingApp.Api.csproj": {}
+    "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\DatingApp.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\DatingApp.Api.csproj": {
+    "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\DatingApp.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\DatingApp.Api.csproj",
+        "projectUniqueName": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\DatingApp.Api.csproj",
         "projectName": "DatingApp.Api",
-        "projectPath": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\DatingApp.Api.csproj",
+        "projectPath": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\DatingApp.Api.csproj",
         "packagesPath": "C:\\Users\\COMPU MARTS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\obj\\",
+        "outputPath": "C:\\Users\\COMPU MARTS\\Desktop\\cSharp_labs\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -69,6 +73,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.8.0, )"
             }
           },
           "imports": [
